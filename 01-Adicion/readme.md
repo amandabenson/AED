@@ -8,7 +8,6 @@
 
 * Legajo: 163376-4
 
-**Etapa #1: Análisis del problema**
 
 *   1a)  Objetivos
     * Completar todas las etapas de la resolución de problemas para un problema simple: la adición de dos números.
@@ -30,8 +29,10 @@
 *   1e) Tareas
     * Escribir el archivo readme.md que actúa como front page de la resolución que contenga lo solicitado en la sección “Carpetas para cada Resolución”, y en particular, el Análisis del Problema y el Diseño de la Solución:
 
-
-* Refinamiento del problema e Hipótesis de trabajo:
+**Etapa #1 : Análisis del problema:**
+ * Problema: Obtener del usuario dos números y mostrar la suma 
+ 
+ * Refinamiento del problema e Hipótesis de trabajo:
 
  **El objetivo del problema es mostrar la suma de dos números cualquiera ingresados por el usuario. Deberemos definir que tipo de números se ingresan para saber que tipo de resultado dará la suma**
  
