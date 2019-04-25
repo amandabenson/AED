@@ -49,11 +49,12 @@
    
  * Representación del Algoritmo: 
 
-    * Representacion visual:
+    * Representación visual:
  
     ![alt text](https://github.com/vanesabenson/AED/blob/master/01-Adicion/Images/diagrama.png)
  
     * Representación textual:
+    
     
     1) Solicitar número y guardarlo en a
     2) Solicitar número y guardarlo en b
