@@ -38,7 +38,8 @@
  
  
  * Modelo IPO 
-      ![alt text](https://github.com/vanesabenson/AED/blob/master/01-Adicion/Images/ipo_image.png)
+ 
+  ![alt text](https://github.com/vanesabenson/AED/blob/master/01-Adicion/Images/ipo_image.png)
       
       
  **Etapa #2 Diseño de la Solución**
@@ -50,12 +51,17 @@
 
     * Representacion visual:
  
- ![alt text](https://github.com/vanesabenson/AED/blob/master/01-Adicion/Images/diagrama.png)
+    ![alt text](https://github.com/vanesabenson/AED/blob/master/01-Adicion/Images/diagrama.png)
+ 
+    * Representacion textual:
+    
+    1) Solicitar número y guardarlo en a
+    2) Solicitar número y guardarlo en b
+    3) Mostrar la suma de a y b 
 
-   * Representacion textual:
-   
-    *  Escribir, compilar, ejecutar, y probar Adición.cpp.   
+* Escribir, compilar, ejecutar, y probar Adición.cpp.
 
+  
 *    1f) Productos
      * DD-Adicion
        * readme.md
