@@ -8,7 +8,7 @@
 
 * Legajo: 163376-4
 
-** Etapa #1: Análisis del problema**
+**Etapa #1: Análisis del problema**
 
 *   1a)  Objetivos
     * Completar todas las etapas de la resolución de problemas para un problema simple: la adición de dos números.
@@ -32,6 +32,7 @@
 
 
 * Refinamiento del problema e Hipótesis de trabajo:
+
  **El objetivo del problema es mostrar la suma de dos números cualquiera ingresados por el usuario. Deberemos definir que tipo de números se ingresan para saber que tipo de resultado dará la suma**
  
  
@@ -39,18 +40,19 @@
       ![alt text](https://github.com/vanesabenson/AED/blob/master/01-Adicion/Images/ipo_image.png)
       
       
- * Etapa #2 Diseño de la Solución:
+ **Etapa #2 Diseño de la Solución**
 
-   * Léxico del Algoritmo :   a, b ∈ Z
+ * Léxico del Algoritmo :   a, b ∈ Z
    
    
  * Representación del Algoritmo: 
- 
-    *Representación visual
- 
-    *Representación textual.
 
+    * Representacion visual:
+ 
+ ![alt text](https://github.com/vanesabenson/AED/blob/master/01-Adicion/Images/diagrama.png)
 
+   * Representacion textual:
+   
     *  Escribir, compilar, ejecutar, y probar Adición.cpp.   
 
 *    1f) Productos
