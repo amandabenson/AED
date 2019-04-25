@@ -8,7 +8,7 @@
 
 * Legajo: 163376-4
 
-**Análisis del problema**
+** Etapa #1: Análisis del problema**
 
 *   1a)  Objetivos
     * Completar todas las etapas de la resolución de problemas para un problema simple: la adición de dos números.
@@ -30,16 +30,25 @@
 *   1e) Tareas
     * Escribir el archivo readme.md que actúa como front page de la resolución que contenga lo solicitado en la sección “Carpetas para cada Resolución”, y en particular, el Análisis del Problema y el Diseño de la Solución:
 
-    *  Etapa #1: Análisis del problema:
 
-       * Transcripción del problema
-       * Refinamiento del problema e Hipótesis de trabajo
-       * Modelo IPO 
-    
-    * Etapa #2 Diseño de la Solución:
+* Refinamiento del problema e Hipótesis de trabajo:
+ **El objetivo del problema es mostrar la suma de dos números cualquiera ingresados por el usuario. Deberemos definir que tipo de números se ingresan para saber que tipo de resultado dará la suma**
+ 
+ 
+ * Modelo IPO 
+      ![alt text](https://github.com/vanesabenson/AED/blob/master/01-Adicion/Images/ipo_image.png)
+      
+      
+ * Etapa #2 Diseño de la Solución:
 
-       * Léxico del Algoritmo
-       * Representación del Algoritmo: Representación visual y representación textual.
+   * Léxico del Algoritmo :   a, b ∈ Z
+   
+   
+ * Representación del Algoritmo: 
+ 
+    *Representación visual
+ 
+    *Representación textual.
 
 
     *  Escribir, compilar, ejecutar, y probar Adición.cpp.   
@@ -50,9 +59,11 @@
        * Adicion.cpp
        
        
-  **El objetivo del problema es mostrar la suma de dos números cualquiera ingresados por el usuario.**
   
-  * Modelo IPO
   
-  ![alt text](https://github.com/vanesabenson/AED/blob/master/01-Adicion/Images/ipo.png)
+
   
+ 
+
+
+* 
