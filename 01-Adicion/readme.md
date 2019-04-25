@@ -48,3 +48,11 @@
      * DD-Adicion
        * readme.md
        * Adicion.cpp
+       
+       
+  **El objetivo del problema es mostrar la suma de dos números cualquiera ingresados por el usuario.**
+  
+  * Modelo IPO
+  
+  ![alt text](https://github.com/vanesabenson/AED/blob/master/01-Adicion/Images/ipo.png)
+  
