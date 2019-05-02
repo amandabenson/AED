@@ -23,7 +23,7 @@ else
 
 int main(){
  setlocale(LC_ALL,"Spanish");
-//Pedimos al usuario que ingrese su nombre - Uso de string
+
 
 string nombre = "Vanesa";
 std::cout << "Mi nombre es " + nombre<<endl;
@@ -33,19 +33,20 @@ std::cout << "Mi nombre es " + nombre<<endl;
 std::cout << "Hagamos una suma:  2.5 mas 1 \n";
 double respuesta = 3.5;
 std::cout << "El resultado es: "<<respuesta<<endl;
-// Comprobamos que la respuesta es correcta
+
 bool opcion = 0;
 opcion = prueba(respuesta);
-if ( opcion == true) //Si el resultado es correcto, el usuario accede a la encuesta 
+if ( opcion == true) 
 {
 std::cout << "Mi resultado es correcto! \n";
-int nac = 1999;
+int nacimiento = 1999;
+int actual = 2019;
 std::cout << "Naci en 1999 \n";
 
-int edad = 2019 - nac;
+int edad =  actual - nac;
 std::cout << "Por lo tanto tengo "<<edad<<endl;
 char turno = 'n';
-std::cout << "Curso en UTN y hay 3 turnos: M/T/N \n"; //Le pedimos al usuario que ingrese el turno que cursa
+std::cout << "Curso en UTN y hay 3 turnos: M/T/N \n"; 
 
 string nuevoTur ;
 switch (turno){
@@ -60,8 +61,7 @@ switch (turno){
 }
 std::cout << "Asisto al turno: " + nuevoTur + "\n" ; 
 unsigned short int materias = 4;
-std::cout << "Actualmente estoy cursando: "<< materias<<" materias \n"; //Le pedimos al usuario que ingrese cantidad de materias que esta cursando - Uso de unsigned
-std::cout <<"Gracias por leer!";
+std::cout << "Actualmente estoy cursando: "<< materias<<" materias \n";
 
 system("pause");
 }
