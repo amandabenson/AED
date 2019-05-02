@@ -36,10 +36,7 @@
 
  **El objetivo del problema es diseñar un programa que muestre los tipos de datos vistos en clase(bool,char,unsigned,int,double,string).**
  
-      
-      
-* Productos
-
-02-EjemploTipos
- |-- readme.md
- `-- EjemploTipos.cpp
+*    Productos
+     * 02-EjemploTipos
+       * EjemploTipos.cpp
+       
