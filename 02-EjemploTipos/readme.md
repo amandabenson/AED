@@ -36,12 +36,6 @@
 
  **El objetivo del problema es diseñar un programa que muestre los tipos de datos vistos en clase(bool,char,unsigned,int,double,string).**
  
-
-
- 
- * Modelo IPO 
- 
-  ![alt text](https://github.com/vanesabenson/AED/blob/master/02-EjemploTipos/Images/MODELO_IPO_2.png)
       
       
 * Productos
