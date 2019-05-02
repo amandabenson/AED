@@ -43,7 +43,7 @@ int nacimiento = 1999;
 int actual = 2019;
 std::cout << "Naci en 1999 \n";
 
-int edad =  actual - nac;
+int edad =  actual - nacimiento;
 std::cout << "Por lo tanto tengo "<<edad<<endl;
 char turno = 'n';
 std::cout << "Curso en UTN y hay 3 turnos: M/T/N \n"; 
