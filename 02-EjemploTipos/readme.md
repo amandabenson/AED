@@ -11,13 +11,13 @@
 **Enunciado del problema**
 
  *   a)  Objetivos
-    * Mediante un ejemplo, demostrar la aplicación de tipos de datos.
+     * Mediante un ejemplo, demostrar la aplicación de tipos de datos.
 
 *    b) Temas
-    * Tipos de datos
-    * Declaraciones
-    * Variables
-    * Valores
+     * Tipos de datos
+     * Declaraciones
+     * Variables
+     * Valores
   
 *   c) Problema
     * Diseñar un programa C++ que ejemplifique la aplicación de los tipos de datos vistos en clases.
