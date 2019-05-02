@@ -9,7 +9,7 @@ Nombre y apellido: Amanda Vanesa Benson
 #include <locale.h>
 
 using namespace std;
-// Funcion que verifica si el usuario ha ingresado el resultado de una suma correctamente
+
 bool prueba(double respuesta){
     if(respuesta == 3.5)
     { return true;
